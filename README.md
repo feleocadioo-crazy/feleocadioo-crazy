@@ -1,19 +1,21 @@
-# Felipe Leocadio (Fex)
+# Felipe Leocadio
 
-Founder & solo builder of **[TalentOS](https://talentosbyfex.com)** — a reasoning-first technical hiring platform, in production.
+Technical founder building [TalentOS](https://talentosbyfex.com) — reasoning-first hiring assessment.
 
-I build tools that evaluate *how* people reason and orchestrate AI — not just what they output. The thesis: signal comes from candidates choosing to show their work, never from surveillance.
+## What I'm building
 
-**What I'm building**
-- 🧠 **TalentOS** — multi-tenant B2B hiring platform. AI-scored reasoning trails, candidate-dignified by design. Live, with real pilots. *(private)*
-- 🤖 **hn-agent** — Python pipeline that filters Hacker News daily through the Claude API and writes structured intelligence into an Obsidian vault. I instrument my own information diet.
-- 📓 **Knowledge system** — Obsidian-based vault wired to the agent above. Build → automate → think better.
+TalentOS is a hiring assessment product, in production, that measures how a candidate reasons through a real problem — not how well they rehearsed a take-home. The opposite of hiring theater.
 
-**How I work**
-Ship to production, validate in the browser, then call it done. Spec-driven, reasoning-first, allergic to theater.
+[talentosbyfex.com](https://talentosbyfex.com)
 
-**Stack** — Next.js · TypeScript · Supabase · Vercel · Anthropic API · Python
+## Open source
 
-**Day job** — Project Lead @ NTT Data. I'm also TalentOS's first customer.
+**[critical-path](https://github.com/feleocadioo-crazy/critical-path)** — your backlog is already a graph.
 
-🌐 [talentosbyfex.com](https://talentosbyfex.com)
+It reads the daily handoffs and backlog two devs already write in markdown and renders the one thing that changes your morning: what the other person's handoff just unblocked for you. A [gstack](https://garryslist.org) add-on.
+
+[![critical-path](https://raw.githubusercontent.com/feleocadioo-crazy/critical-path/main/docs/card.png)](https://github.com/feleocadioo-crazy/critical-path)
+
+---
+
+Next.js · Supabase · TypeScript · [fexleocadio@gmail.com](mailto:fexleocadio@gmail.com)
