@@ -12,7 +12,7 @@ TalentOS is a hiring assessment product, in production, that measures how a cand
 
 **[critical-path](https://github.com/feleocadioo-crazy/critical-path)** — your backlog is already a graph.
 
-It reads the daily handoffs and backlog two devs already write in markdown and renders the one thing that changes your morning: what the other person's handoff just unblocked for you. A [gstack](https://garryslist.org) add-on.
+It reads the working docs you already write in markdown — in any format — and renders the one thing that changes your morning: what someone else's handoff just unblocked for you. A [gstack](https://github.com/garrytan/gstack) add-on.
 
 [![critical-path](https://raw.githubusercontent.com/feleocadioo-crazy/critical-path/main/docs/card.png)](https://github.com/feleocadioo-crazy/critical-path)
 
